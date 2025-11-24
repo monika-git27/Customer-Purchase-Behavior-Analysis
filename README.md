@@ -37,7 +37,7 @@ Key analyses included:
 ---
 
 ## Power BI Dashboard
-
+(https://github.com/monika-git27/Customer-Purchase-Behavior-Analysis/blob/main/Dashboard.png?raw=true)
 Visuals included:  
 - Total customers, average purchase amount, and average rating  
 - Revenue & sales by category  
